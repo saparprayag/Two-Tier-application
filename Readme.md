@@ -127,6 +127,7 @@ docker run -d \
 - If you encounter issues, check Docker logs and error messages for troubleshooting.
 
 ```
+![Alt text](![Screenshot 2024-05-25 153214](https://github.com/saparprayag/Two-tier-application/assets/149095595/2775b0a3-0d9a-46d9-9f8d-634206319821)
 
 
 
